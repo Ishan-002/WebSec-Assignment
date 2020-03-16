@@ -32,4 +32,5 @@ FLAG: picoCTF{th3_c0nsp1r4cy_l1v3s_6f2c20e9}
 https://2019shell1.picoctf.com/problem/12255/
 
 
-This problem is same as problem-1. Here the similar procedure is to be repeated, the only difference being, picobrowser to be written instead of SDSLabs.
+This problem is same as problem-1. Here the similar procedure is to be repeated, the only difference being, picobrowser to be written instead of SDSLabs.   
+FLAG: picoCTF{p1c0_s3cr3t_ag3nt_bbe8a517}
